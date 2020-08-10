@@ -1,0 +1,33 @@
+body{ background: rgb(29, 216, 70);
+    margin-left: 40px;
+    margin-right: 200px;
+
+}
+
+h1 {
+    color: red;
+    font-family: cursive;
+}
+
+h2{
+    font-family: cursive;
+}
+
+p{  color: brown;
+    font-size: 20px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+
+a{
+    color: cornsilk;
+}
+
+.logo{
+ 
+    width: 30px;
+}
